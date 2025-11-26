@@ -1,0 +1,9 @@
+{
+  "name": "NZ Tradie AI",
+  "description": "An intelligent voice and chat assistant for New Zealand tradies, featuring plan analysis, building code compliance checks, and real-time support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
